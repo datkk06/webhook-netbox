@@ -93,7 +93,7 @@ mv <path>/webhook-netbox/ /opt
 cd /opt/webhook-netbox/
 ```
 
-- Create images
+- Create image
 
 ```sh
 docker build -t webhook-netbox .
